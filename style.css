@@ -1,0 +1,42 @@
+.writting{
+    color: grey;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.row img{
+    width: 100%;
+}
+.bottom-space{
+    margin-bottom: 100px;
+}
+.smartphone{
+    font-weight: 900;
+    font-size: 30px;
+}
+.see-all{
+    color: orange;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.container
+{
+    margin-bottom: 100px;
+}
+.pale-order-item img{
+    width: 150%;
+}
+.bag-pad{
+    padding-top: 20%;
+}
+
